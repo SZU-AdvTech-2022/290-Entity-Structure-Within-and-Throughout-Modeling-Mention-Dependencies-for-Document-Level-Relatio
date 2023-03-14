@@ -1,0 +1,9 @@
+@inproceedings{REPO-291,
+    author = "Xu, Benfeng and Wang, Quan and Lyu, Yajuan and Zhu, Yong and Mao, Zhendong",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "16",
+    pages = "14149--14157",
+    title = "{Entity Structure Within and Throughout: Modeling Mention Dependencies for Document-Level Relation Extraction}",
+    volume = "35",
+    year = "2021"
+}
